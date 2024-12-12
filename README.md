@@ -13,17 +13,15 @@
   </a>
 </p>
 -->
-<!--BEGIN CODE CSS-->
-<style> ul { list-style-type: none; } ul li::before { content: "➜ "; margin-right: 5px; } </style>
-<!--END CODE CSS-->
+
 
 <h3> Skills </h3>
 <ul>
-  <li>🌱 Frontend : React, Angular, Ant-Design, Material UI, Lucide-react, TailwindCSS </li>
-  <li>🔭 Backend : NodeJs, Express, Java-Spring-boot, Django </li>
-  <li>🧩 Database : MySQL, MariaDB, SQLite </li>
-  <li>💬 Language : HTML, CSS, Javascript, Typescript, Python </li>
-  <li> 🔥 CMS: WordPress </li>
+  <li> ➜ 🌱 Frontend : React, Angular, Ant-Design, Material UI, Lucide-react, TailwindCSS </li>
+  <li> ➜ 🔭 Backend : NodeJs, Express, Java-Spring-boot, Django </li>
+  <li> ➜ 🧩 Database : MySQL, MariaDB, SQLite </li>
+  <li> ➜ 💬 Language : HTML, CSS, Javascript, Typescript, Python </li>
+  <li> ➜ 🔥 CMS: WordPress </li>
 </ul>
 <hr style="border:'2px solid'"/>
 
