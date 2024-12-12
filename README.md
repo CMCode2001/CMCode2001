@@ -1,4 +1,4 @@
-<body style="background-color:'white'">
+<body style="background:'white'">
 <h1 align="center">Hi👋I am Cheikh Mbacke COLY </h1>
 <h3 align="center">A Junior FullStack Developper.</h3>
 <h3 align="center">A Passionate Graphic Design and Webdesign.</h3>
@@ -17,11 +17,11 @@
 
 <h3> Skills </h3>
 <ul>
-  <li> ➜ 🌱 Frontend : React, Angular, Ant-Design, Material UI, Lucide-react, TailwindCSS </li>
-  <li> ➜ 🔭 Backend : NodeJs, Express, Java-Spring-boot, Django </li>
-  <li> ➜ 🧩 Database : MySQL, MariaDB, SQLite </li>
-  <li> ➜ 💬 Language : HTML, CSS, Javascript, Typescript, Python </li>
-  <li> ➜ 🔥 CMS: WordPress </li>
+  <p> ➜ 🌱 Frontend : React, Angular, Ant-Design, Material UI, Lucide-react, TailwindCSS </p>
+  <p> ➜ 🔭 Backend : NodeJs, Express, Java-Spring-boot, Django </p>
+  <p> ➜ 🧩 Database : MySQL, MariaDB, SQLite </p>
+  <p> ➜ 💬 Language : HTML, CSS, Javascript, Typescript, Python </p>
+  <p> ➜ 🔥 CMS: WordPress </p>
 </ul>
 <hr style="border:'2px solid'"/>
 
