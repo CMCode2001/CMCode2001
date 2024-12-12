@@ -1,3 +1,4 @@
+<body background="white">
 <h1 align="center">Salut 👋, moi Cheikh Mbacke COLY </h1>
 <h3 >Développeur FullStack Junior | Passionné par l'interface utilisateur, l'expérience utilisateur et la beauté des API.</h3>
 
@@ -126,3 +127,4 @@
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cmcode2001&show_icons=true&locale=en" alt="cmcode2001" />
 </p>
+</body>
