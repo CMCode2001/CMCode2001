@@ -1,16 +1,26 @@
-<body style="background-color:white">
-<h1 align="center">Salut 👋, moi Cheikh Mbacke COLY </h1>
-<h3 >Développeur FullStack Junior | Passionné par l'interface utilisateur, l'expérience utilisateur et la beauté des API.</h3>
+<body style="background-color:'white'">
+<h1 align="center">Hi👋I am Cheikh Mbacke COLY </h1>
+<h3 >A Junior FullStack Developper.</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=cmcode2001&label=Profile%20views&color=0e75b6&style=flat" alt="cmcode2001" />
 </p>
 
-<p align="left"> 
+<!-- <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=cmcode2001" alt="cmcode2001" />
   </a>
 </p>
+-->
+<h3> Skills </h3>
+<ul>
+  <li>🌱 Frontend : React, Angular, Ant-Design, Material UI, Lucide-react, TailwindCSS </li>
+  <li>🔭 Backend : NodeJs, Express, Java-Spring-boot, Django </li>
+  <li>🧩 Database : MySQL, MariaDB, SQLite </li>
+  <li>💬 Language : HTML, CSS, Javascript, Typescript, Python </li>
+  <li> 🔥 CMS: WordPress </li>
+</ul>
+<hr style="border:'2px solid'"/>
 
 <h3 align="left"> Connect with me: </h3>
 <p align="left">
