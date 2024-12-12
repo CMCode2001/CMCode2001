@@ -1,4 +1,4 @@
-<body background="white">
+<body style="background-color:white">
 <h1 align="center">Salut 👋, moi Cheikh Mbacke COLY </h1>
 <h3 >Développeur FullStack Junior | Passionné par l'interface utilisateur, l'expérience utilisateur et la beauté des API.</h3>
 
