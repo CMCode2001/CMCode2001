@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, moi Cheikh Mbacke COLY </h1>
-<h3 align="center">Développeur FullStack Junior | Passionné par l'interface utilisateur, l'expérience utilisateur et la beauté des API.</h3>
+<h3 >Développeur FullStack Junior | Passionné par l'interface utilisateur, l'expérience utilisateur et la beauté des API.</h3>
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=cmcode2001&label=Profile%20views&color=0e75b6&style=flat" alt="cmcode2001" />
 </p>
 
