@@ -1,6 +1,7 @@
 <body style="background-color:'white'">
 <h1 align="center">Hi👋I am Cheikh Mbacke COLY </h1>
-<h3 >A Junior FullStack Developper.</h3>
+<h3 align="center">A Junior FullStack Developper.</h3>
+<h3 align="center">A Passionate Graphic Design and Webdesign.</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=cmcode2001&label=Profile%20views&color=0e75b6&style=flat" alt="cmcode2001" />
@@ -12,6 +13,10 @@
   </a>
 </p>
 -->
+<!--BEGIN CODE CSS-->
+<style> ul { list-style-type: none; } ul li::before { content: "➜ "; margin-right: 5px; } </style>
+<!--END CODE CSS-->
+
 <h3> Skills </h3>
 <ul>
   <li>🌱 Frontend : React, Angular, Ant-Design, Material UI, Lucide-react, TailwindCSS </li>
