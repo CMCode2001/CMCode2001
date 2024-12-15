@@ -14,8 +14,7 @@
 </p>
 -->
 
-
-<h3> My Skills </h3>
+<h3> ➤ My Skills </h3>
 <ul>
   <p> ➜ ⚛️<b> Frontend : </b> React, Angular, Ant-Design, Material UI, Lucide-react, TailwindCSS </p>
   <p> ➜ 📦 <b> Backend : </b> NodeJs, Express, Java-Spring-boot, Django </p>
@@ -25,7 +24,8 @@
   <!--p> ➜ 🔥 CMS: WordPress </p>-->
 </ul>
 <hr style="border:'2px solid'"/>
-<h3> My Programming Languages </h3>
+
+<h3> ➤ My Programming Languages </h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,angular,spring,html,tailwind,ts,js,python,django,git,bash,figma,ps,ai,xd" />
@@ -33,10 +33,19 @@
 </p>
 
 <hr style="border:'2px solid'"/>
+<h3> ➤ Stats </h3>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmcode2001&show_icons=true&locale=en&layout=compact" alt="cmcode2001" />
 </p>
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cmcode2001&show_icons=true&locale=en" alt="cmcode2001" />
+</p>
+
+<hr style="border:'2px solid'"/>
+<h3> ➤ Stats </h3>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=cmcode2001" alt="cmcode2001" />
+  </a>
 </p>
 </body>
