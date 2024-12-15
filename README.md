@@ -17,10 +17,11 @@
 
 <h3> My Skills </h3>
 <ul>
-  <p> ➜ 🌱<b> Frontend : </b> React, Angular, Ant-Design, Material UI, Lucide-react, TailwindCSS </p>
-  <p> ➜ 🔭 <b> Backend : </b> NodeJs, Express, Java-Spring-boot, Django </p>
-  <p> ➜ 🧩 <b> Database : </b> MySQL, MariaDB, SQLite </p>
-  <p> ➜ 💬 <b> Language :</b> HTML, CSS, Javascript, Typescript, Python </p>
+  <p> ➜ ⚛️<b> Frontend : </b> React, Angular, Ant-Design, Material UI, Lucide-react, TailwindCSS </p>
+  <p> ➜ 📦 <b> Backend : </b> NodeJs, Express, Java-Spring-boot, Django </p>
+  <p> ➜ ⏳ <b> Database : </b> MySQL, MariaDB, SQLite </p>
+  <p> ➜ 💼 <b> Language :</b> HTML, CSS, Javascript, Typescript, Python </p>
+  <p> ➜ ✒️ <b> Webdesgin and Graphic Design :</b> Figma, Adobe XD, Photoshop, Illustrator, Premiere Pro, VN </p>
   <!--p> ➜ 🔥 CMS: WordPress </p>-->
 </ul>
 <hr style="border:'2px solid'"/>
