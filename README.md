@@ -65,17 +65,12 @@
 
 <hr style="border:'2px solid'"/>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmcode2001&show_icons=true&locale=en&layout=compact" alt="cmcode2001" />
-</p>
-<p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cmcode2001&" alt="cmcode2001" />
 </p>
 <hr style="border:'2px solid'"/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cmcode2001" alt="cmcode2001" /></a> </p>
-
 <p align="left"> 
-  <a href="https://twitter.com/cmcode2001" target="blank">
-    <img src="https://img.shields.io/twitter/follow/cmcode2001?logo=twitter&style=for-the-badge" alt="cmcode2001" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=cmcode2001" alt="cmcode2001" />
   </a> 
 </p>
 </body>
