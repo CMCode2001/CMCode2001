@@ -7,12 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=cmcode2001&label=Profile%20views&color=0e75b6&style=flat" alt="cmcode2001" />
 </p>
 
-<!-- <p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=cmcode2001" alt="cmcode2001" />
-  </a>
-</p>
--->
 
 <h3> ➤ My Skills </h3>
 <ul>
@@ -54,22 +48,22 @@
 
 <hr style="border:'2px solid'"/>
 <h3 align="left"> ➤ My Link</h3>
-<p align="center">
-<p>
-  <a href="https://twitter.com/cmcode2001" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cmcode2001" height="30" width="40" />
-  </a> 
-</p>
-<p>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/cheikh-mbacke-coly-26047127b/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cheikh-mbacke-coly-26047127b/" height="30" width="40" />
-  </a>
-</p>
-<p>
-  <a href="https://discord.gg/cmcode2001" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cmcode2001" height="30" width="40" />
-  </a>
-</p>
+<p style="display:'flex', justify-content:'space-between', align-items:'center'">
+  <p>
+    <a href="https://twitter.com/cmcode2001" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cmcode2001" height="30" width="40" />
+    </a> 
+  </p>
+  <p>
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/cheikh-mbacke-coly-26047127b/" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cheikh-mbacke-coly-26047127b/" height="30" width="40" />
+    </a>
+  </p>
+  <p>
+    <a href="https://discord.gg/cmcode2001" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cmcode2001" height="30" width="40" />
+    </a>
+  </p>
 </p>
 
 <hr style="border:'2px solid'"/>
