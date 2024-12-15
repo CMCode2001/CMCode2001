@@ -33,7 +33,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmcode2001&show_icons=true&locale=en&layout=compact" alt="cmcode2001" />
 </p>
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cmcode2001&" alt="cmcode2001" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cmcode2001&" alt="cmcode2001" style=" width:'12px'"/>
 </p>
 
 
