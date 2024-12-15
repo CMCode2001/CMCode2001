@@ -28,16 +28,16 @@
 
 <hr style="border:'2px solid'"/>
 <h3> ➤ Stats </h3>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cmcode2001&" alt="cmcode2001" />
-</p>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmcode2001&show_icons=true&locale=en&layout=compact" alt="cmcode2001" />
 </p>
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cmcode2001&show_icons=true&locale=en" alt="cmcode2001" />
 </p>
-
+<h3> ➤ Contributions </h3>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cmcode2001&" alt="cmcode2001" />
+</p>
 
 <hr style="border:'1px solid'"/>
 
