@@ -27,7 +27,7 @@
 <h3> My Programming Languages </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,spring,html,css,ts,js,python,django,git,bash,figma,ps,ai,xd" />
+    <img src="https://skillicons.dev/icons?i=react,angular,spring,html,tailwind,ts,js,python,django,git,bash,figma,ps,ai,xd" />
   </a>
 </p>
 
