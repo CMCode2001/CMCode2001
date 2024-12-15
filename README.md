@@ -30,8 +30,6 @@
 <h3> ➤ Stats </h3>
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cmcode2001&show_icons=true&locale=en" alt="cmcode2001" />
-</p>
-<p align="right">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmcode2001&show_icons=true&locale=en&layout=compact" alt="cmcode2001" />
 </p>
 <p align="left">
