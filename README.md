@@ -1,4 +1,4 @@
-<body style="background:'white'">
+<body>
 <h1 align="center">Hi👋I am Cheikh Mbacke COLY </h1>
 <h3 align="center">A Junior FullStack Developper.</h3>
 <h3 align="center">A Passionate Graphic Design and Webdesign.</h3>
