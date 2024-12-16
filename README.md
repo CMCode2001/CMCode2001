@@ -1,9 +1,35 @@
+<!--------------------------------- BEGIN ENTETE ------------------------------------>
+
 <p align="center"> 
-  <marquee>
-    <img src="/assets/CMC-logo .png" alt="Bannière de Cheikh Mbacke COLY" width="300"> 
-  </marquee>
+  <div class="scrolling-text">
+    <img src="/assets/CMC-logo.jpg" alt="Bannière de Cheikh Mbacke COLY" width="300">
+  </div>
 </p>
 
+<style>
+  .scrolling-text {
+    display: inline-block;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 300px;
+  }
+
+  .scrolling-text img {
+    display: inline-block;
+    animation: scroll-left 10s linear infinite;
+  }
+
+  @keyframes scroll-left {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+</style>
+
+<!--------------------------------- END ENTETE ------------------------------------>
 
 <h1 align="center">Hi👋I am Cheikh Mbacke COLY </h1>
 <h3 align="center">A Junior FullStack Developper.</h3>
