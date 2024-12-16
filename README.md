@@ -1,5 +1,6 @@
 <!------------ BEGIN ENTETE ------------------------>
 
+<!--------------------------------- BEGIN ENTETE ------------------------------------>
 <p align="center"> 
     <img src="/assets/CMC-logo.png" alt="Bannière de Cheikh Mbacke COLY" width="300">
 </p>
