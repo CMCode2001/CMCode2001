@@ -1,4 +1,6 @@
-<p align="center"> <img src="/assets/CMC-logo.jpg" alt="Bannière de Cheikh Mbacke COLY"> </p>
+<p align="center"> 
+<img src="/assets/CMC-logo.jpg" alt="Bannière de Cheikh Mbacke COLY" style="width:'20px'"> 
+</p>
 
 <h1 align="center">Hi👋I am Cheikh Mbacke COLY </h1>
 <h3 align="center">A Junior FullStack Developper.</h3>
