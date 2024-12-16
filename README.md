@@ -1,12 +1,11 @@
 <!------------ BEGIN ENTETE ------------------------>
 
 <p align="center"> 
-  <h1 align="center">Hi👋I am Cheikh Mbacke COLY </h1>
-  <img src="/assets/CMC-logo.png" alt="Bannière de Cheikh Mbacke COLY" width="300">
+    <img src="/assets/CMC-logo.png" alt="Bannière de Cheikh Mbacke COLY" width="200">
 </p>
 
 <!------------- END ENTETE ------------------------->
-
+<h1 align="center">Hi👋I am Cheikh Mbacke COLY </h1>
 <h3 align="center">A Junior FullStack Developper.</h3>
 <h3 align="center">A Passionate Graphic Design and Webdesign.</h3>
 
