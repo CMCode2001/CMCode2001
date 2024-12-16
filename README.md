@@ -1,5 +1,7 @@
 <p align="center"> 
-  <img src="/assets/CMC-logo.jpg" alt="Bannière de Cheikh Mbacke COLY" width="300"> 
+  <marquee>
+    <img src="/assets/CMC-logo .png" alt="Bannière de Cheikh Mbacke COLY" width="300"> 
+  </marquee>
 </p>
 
 
